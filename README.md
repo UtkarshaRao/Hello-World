@@ -1,2 +1,4 @@
 # Hello-World
-Started learning with readme 
+
+Hi there,
+Exploring the programming world with GitHub Family !
